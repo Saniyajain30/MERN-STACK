@@ -1,0 +1,34 @@
+ <!-- External Styling -->
+    <link rel="stylesheet" href="./css/style.css">
+
+    <!-- Internal css-->
+    <style>
+        p{
+            color: red;
+            background-color: seagreen;
+        }
+    </style>
+</head>    
+<!--
+    Styling Themes:-
+    Inline
+    Internal
+    External
+-->
+
+<body>
+    <!-- Inline Styling-->
+    <h1 style="color: slateblue;">This is smart</h1>
+    <p>My name is Saniya</p>
+    <a href="https://github.com" target="_blank"></a>
+    <br/>
+    <a href="mailto:saniyajain312@gmail.com">Mail</a>
+    <a href="https://github.com" target="_blank">
+        <button>Click Me</button>
+    </a>
+    <br/>
+    <table style="width: 100%;" >
+    <tr>
+        
+</body>
+  
