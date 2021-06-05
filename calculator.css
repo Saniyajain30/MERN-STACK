@@ -1,0 +1,21 @@
+td{
+    color: aqua;
+}
+ 
+body{
+    background-color: cadetblue ;
+    align-items: center;
+}
+
+form{
+    align-items: center;
+}
+
+tr{
+    align-items: center;
+}
+
+table{
+    align-items: center;
+    float: left;
+}
